@@ -1,3 +1,3 @@
-module bulk-number-downloader
+module bulk-url-downloader
 
 go 1.23.4
